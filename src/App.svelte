@@ -3,11 +3,11 @@
 </script>
 
 <main>
-  <div class="social-handles">
+  <!-- <div class="social-handles">
     <img src="https://placekitten.com/40/40" alt="Twitter logo" />
     <img src="https://placekitten.com/40/40" alt="Twitter logo" />
     <img src="https://placekitten.com/40/40" alt="Twitter logo" />
-  </div>
+  </div> -->
 
   <h1>Hi, I'm {name}</h1>
   <p>

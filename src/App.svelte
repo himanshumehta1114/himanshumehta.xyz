@@ -16,9 +16,13 @@
   </p>
   <p>
     I build tools to support design system and improve frontend development
-    experience in Gojek.
+    experience.
   </p>
   <p>I like playing badminton 🏸 &nbsp; and building mechanical keyboads ⌨️</p>
+  <small>
+    <a href="mailto:himanshumehta1114@gmail.com">himanshumehta1114@gmail.com</a>
+    | <a href="tel:+919034441114">+91-9034441114</a>
+  </small>
 </main>
 
 <style>

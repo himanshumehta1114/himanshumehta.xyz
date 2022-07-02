@@ -9,13 +9,23 @@
       target="_blank"
       class="social-link twitter"
     >
-      <svg width="32" height="32" viewBox="0 0 800 800" title="Twitter link" role="img"
+      <svg
+        width="32"
+        height="32"
+        viewBox="0 0 800 800"
+        title="Twitter link"
+        role="img"
         ><path
           d="M679 239s-21 34-55 57c7 156-107 329-314 329-103 0-169-50-169-50s81 17 163-45c-83-5-103-77-103-77s23 6 50-2c-93-23-89-110-89-110s23 14 50 14c-84-65-34-148-34-148s76 107 228 116c-22-121 117-177 188-101 37-6 71-27 71-27s-12 41-49 61c30-2 63-17 63-17z"
         /></svg
       >
     </a>
-    <a href="https://github.com/himanshumehta1114" target="_blank" title="GitHub link" role="img">
+    <a
+      href="https://github.com/himanshumehta1114"
+      target="_blank"
+      title="GitHub link"
+      role="img"
+    >
       <svg
         height="32"
         aria-hidden="true"
@@ -34,14 +44,22 @@
   </div>
   <h1>Hi, I'm {name}</h1>
   <p>
-    Based in Hisar, India. I am Software Engineer (IC4) working in Risk Platform team at <a href="https://www.coinbase.com/" target="_blank" title="Coinbase">Coinbase</a>.
+    Based in Hisar, India. I am Software Engineer (IC4) working in Risk Platform
+    team at <a href="https://www.coinbase.com/" target="_blank" title="Coinbase"
+      >Coinbase</a
+    >.
   </p>
   <p>
-    I build exciting products to solve problems in the crypto Risk space like Credit risks, Frauds etc.
+    I build exciting products to solve problems in the crypto Risk space like
+    Credit risks, Frauds etc.
   </p>
 
   <h2>PAST</h2>
-  <p>Design Systems at <a href="https://gojek.io" target="_blank" title="Gojek">Gojek</a>.</p>
+  <p>
+    Design Systems at <a href="https://gojek.io" target="_blank" title="Gojek"
+      >Gojek</a
+    >.
+  </p>
 
   <h2>INTERESTS</h2>
   <p>I like to play badminton and build mechanical keyboards.</p>
@@ -57,7 +75,7 @@
   }
 
   .social-link {
-    fill: rgb(0,0,0, 0.6);
+    fill: rgb(0, 0, 0, 0.6);
     transition: 0.2s;
   }
 

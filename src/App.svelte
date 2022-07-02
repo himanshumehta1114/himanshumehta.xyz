@@ -34,13 +34,16 @@
   </div>
   <h1>Hi, I'm {name}</h1>
   <p>
-    Based in Hisar, India. I work in the UX Engineering team as a Senior
-    Software Engineer in Gojek.
+    Based in Hisar, India. I am Software Engineer (IC4) working in Risk Platform team at <a href="https://www.coinbase.com/" target="_blank" title="Coinbase">Coinbase</a>.
   </p>
   <p>
-    I build tools to support design system and improve frontend development
-    experience.
+    I build exciting products to solve problems in the crypto Risk space like Credit risks, Frauds etc.
   </p>
+
+  <h2>PAST</h2>
+  <p>Design Systems at <a href="https://gojek.io" target="_blank" title="Gojek">Gojek</a>.</p>
+
+  <h2>INTERESTS</h2>
   <p>I like to play badminton and build mechanical keyboards.</p>
   <small>
     <a href="mailto:himanshumehta1114@gmail.com">himanshumehta1114@gmail.com</a>

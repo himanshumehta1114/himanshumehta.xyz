@@ -62,7 +62,7 @@
   </p>
 
   <h2>INTERESTS</h2>
-  <p>I like to play badminton and build mechanical keyboards.</p>
+  <p>I like to hitting gym, playing badminton and build mechanical keyboards.</p>
   <small>
     <a href="mailto:himanshumehta1114@gmail.com">himanshumehta1114@gmail.com</a>
     | <a href="tel:+919034441114">+91-9034441114</a>
